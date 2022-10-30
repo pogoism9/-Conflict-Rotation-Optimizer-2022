@@ -1,7 +1,7 @@
 ## Title:-|cffFFFFFFConRO|r- |cffC79C6EWarrior|r
-## Version: 9.1.11
-## Author: Vae
-## Interface: 90002
+## Version: 10.0.00
+## Author: pogoism9 (Based on original code by Vae)
+## Interface: 100000
 ## Dependencies: ConRO
 ## LoadOnDemand: 1
 

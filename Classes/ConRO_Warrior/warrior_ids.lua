@@ -437,6 +437,7 @@ local ConRO_Warrior, ids = ...;
 	
 	}
 	ids.Fury_Buff = {
+		Avatar = 107574,
 		BattleShout = 6673,
 		Enrage = 184362,
 		FuriousSlash = 202539,
